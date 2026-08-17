@@ -10,3 +10,6 @@ The widgets will need editing to work on your system. Filepaths to .lua files an
 Enjoy!
 
 ![PC Desktop image](images/ksnip_20260810-063506.png)
+
+
+![laptop image](images/laptop.png)
